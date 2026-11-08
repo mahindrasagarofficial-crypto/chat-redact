@@ -1,0 +1,11 @@
+12/10/26, 10:40 - Ramesh Patil: Good morning team, new stock of cotton kurtis reached today
+12/10/26, 10:42 - Ramesh Patil: Payment for last order please send to A/C No [BANK ACCOUNT], IFSC [IFSC]
+12/10/26, 10:43 - Priya Shah: Done, sent ₹45,000. Also paid 12,500 by UPI to [UPI ID]
+12/10/26, 10:45 - Priya Shah: For the new portal my login is [EMAIL] and password is [PASSWORD]
+12/10/26, 10:46 - Anil Kumar: Ramesh bhai call me on [PHONE] or [PHONE]
+12/10/26, 10:48 - Anil Kumar: GST no [GSTIN], PAN [PAN] for the invoice
+12/10/26, 10:50 - Priya Shah: Courier guy needs my Aadhaar [AADHAAR], sending photo
+12/10/26, 10:51 - Ramesh Patil: Don't share card here! Card [CARD NUMBER] cvv [CVV] 😅
+12/10/26, 10:53 - Anil Kumar: OTP [OTP] came, what to do?
+12/10/26, 10:54 - Ramesh Patil: Ignore it Anil. Server IP for the billing app is [IP ADDRESS]
+12/10/26, 10:56 - Priya Shah: Order of 120 pieces, rate 340, delivery on 15/10/26. Total 40,800

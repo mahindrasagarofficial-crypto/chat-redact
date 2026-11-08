@@ -1,0 +1,11 @@
+12/10/26, 10:40 - Person 1: Good morning team, new stock of cotton kurtis reached today
+12/10/26, 10:42 - Person 1: Payment for last order please send to A/C No [BANK ACCOUNT], IFSC [IFSC]
+12/10/26, 10:43 - Person 2: Done, sent ₹45,000. Also paid 12,500 by UPI to [UPI ID]
+12/10/26, 10:45 - Person 2: For the new portal my login is [EMAIL] and password is [PASSWORD]
+12/10/26, 10:46 - Person 3: Person 1 bhai call me on [PHONE] or [PHONE]
+12/10/26, 10:48 - Person 3: GST no [GSTIN], PAN [PAN] for the invoice
+12/10/26, 10:50 - Person 2: Courier guy needs my Aadhaar [AADHAAR], sending photo
+12/10/26, 10:51 - Person 1: Don't share card here! Card [CARD NUMBER] cvv [CVV] 😅
+12/10/26, 10:53 - Person 3: OTP [OTP] came, what to do?
+12/10/26, 10:54 - Person 1: Ignore it Person 3. Server IP for the billing app is [IP ADDRESS]
+12/10/26, 10:56 - Person 2: Order of 120 pieces, rate 340, delivery on 15/10/26. Total 40,800
