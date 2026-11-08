@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "chat-redact"
+version = "0.1.0"
+description = "Remove phone numbers, UPI IDs, Aadhaar, PAN, bank details, cards and passwords from WhatsApp chat exports before you share them."
+readme = "README.md"
+license = { text = "MIT" }
+authors = [{ name = "Sagar Mahindra" }]
+requires-python = ">=3.8"
+keywords = ["whatsapp", "privacy", "pii", "redaction", "aadhaar", "upi", "india", "llm"]
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "License :: OSI Approved :: MIT License",
+  "Topic :: Security",
+  "Topic :: Text Processing",
+]
+
+[project.urls]
+Homepage = "https://github.com/mahindrasagarofficial-crypto/chat-redact"
+
+[project.scripts]
+chat-redact = "chat_redact:main"
+
+[tool.setuptools]
+py-modules = ["chat_redact"]
